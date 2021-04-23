@@ -1,0 +1,10 @@
+
+{
+  "name": "egg-hsb-jwt",
+  "eggPlugin": {
+    "name": "egg-hsb-jwt"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
